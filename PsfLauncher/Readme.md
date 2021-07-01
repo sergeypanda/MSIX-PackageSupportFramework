@@ -262,7 +262,6 @@ This example shows an alternative for the json used in the prior example. This m
 		"runOnce": true,
 		"showWindow": false,
 		"scriptPath": "PackageStartScript.ps1",
-		"waitForScriptToFinish": true
 		"scriptArguments": "%MsixWritablePackageRoot%\\VFS\LocalAppData\\Vendor",
 	  },
 	  "endScript":
